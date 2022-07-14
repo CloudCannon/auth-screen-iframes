@@ -20,16 +20,16 @@
     --line-height-small: 28px;
     --line-height-body: 28px;
 
-    --color-primary: #444444;
+    --color-primary: #ffffff;
     --color-primary-dark: #000000;
     --color-primary-light: #666666;
 
-    --color-secondary: #E9E9E9;
+    --color-secondary: #444444;
     --color-secondary-dark: #CCCCCC;
     --color-secondary-light: #EEEEEE;
 
-    --color-body: #393939;
-    --color-light: #FFFFFF;
+    --color-body: #ffffff;
+    --color-light: #444444;
 
     --radius: 12px;
     --radius-image: 20px;
@@ -38,6 +38,7 @@
 $breakpoint-mobile: 599px;
 
 html {
+    height: 100%;
     @media screen and (max-width: $breakpoint-mobile) {
         --font-size-extra-large: 40px;
         --font-size-large: 32px;
@@ -57,6 +58,8 @@ body {
     font-size: var(--font-size-body);
     line-height: var(--line-height-body);
     color: var(--color-body);
+    margin: 0;
+    padding: 0;
 }
 
 section {

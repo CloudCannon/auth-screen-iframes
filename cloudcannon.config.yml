@@ -39,3 +39,7 @@ _inputs:
           icon: width_wide
         - name: Large
           icon: rectangle
+  background_css:
+    type: code
+    options:
+      language: css
