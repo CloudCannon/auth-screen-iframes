@@ -1,6 +1,6 @@
 ---
 title: Home
-background_css: ''
+background_css:
 sections:
   - _bookshop_name: cloudcannon/sections/one-column
     content:
@@ -8,21 +8,26 @@ sections:
         path: /uploads/share-logo.svg
         alt: Share logo
       blocks:
+        - _bookshop_name: cloudcannon/structural/spacer
+          style:
+            height: 60
         - _bookshop_name: cloudcannon/simple/headline
           style:
-            heading_level: h3
+            heading_level: h4
             text_color: Primary
           content:
-            text: "NEW FEATURE"
+            text: NEW FEATURE
         - _bookshop_name: cloudcannon/simple/headline
           style:
             heading_level: h1
             text_color: Primary
           content:
-            text: "Saving Time: Our New Editor Improvements"
+            text: 'Saving Time: Our New Editor Improvements'
         - _bookshop_name: cloudcannon/simple/paragraph
           content:
-            text: "We’ve reduced editing disruption and build-wait times when saving and working across our editors."
+            text: >-
+              We’ve reduced editing disruption and build-wait times when saving
+              and working across our editors.
         - _bookshop_name: cloudcannon/simple/button
           style:
             type: Primary
