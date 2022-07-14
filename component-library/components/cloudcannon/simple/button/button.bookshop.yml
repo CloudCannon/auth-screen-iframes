@@ -13,7 +13,6 @@ blueprint:
   content:
     text: Button
     url: /
-    open_in_new_tab: false
   style:
     type: Primary
     size: Responsive
@@ -39,6 +38,4 @@ _inputs:
         - name: Full
           icon: rectangle
   disabled:
-    type: checkbox
-  open_in_new_tab:
     type: checkbox

@@ -35,7 +35,6 @@ sections:
           content:
             text: Read the Post
             url: https://cloudcannon.com/blog/
-            open_in_new_tab: false
     style:
       custom_background_color: false
       background_color: '#f5f5f5'

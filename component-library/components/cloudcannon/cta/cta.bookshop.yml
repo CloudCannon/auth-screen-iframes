@@ -29,7 +29,6 @@ preview:
         text: Learn more
         disabled: false
         url: /
-        open_in_new_tab: false
         style: Primary
         size: Responsive
 

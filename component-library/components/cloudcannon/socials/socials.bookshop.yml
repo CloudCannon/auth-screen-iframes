@@ -14,7 +14,6 @@ blueprint:
       - url: ""
         logo: ""
         alt: ""
-        open_in_new_tab: true
   style:
     content_alignment: Left
 
@@ -55,5 +54,3 @@ _inputs:
   logo:
     type: image
     comment: Logo should be an SVG with size 48x48px
-  open_in_new_tab:
-    type: checkbox
