@@ -1,6 +1,5 @@
 ---
 title: Home
-background_css:
 sections:
   - _bookshop_name: cloudcannon/sections/one-column
     content:
