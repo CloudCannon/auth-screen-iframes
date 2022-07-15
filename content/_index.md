@@ -18,7 +18,7 @@ sections:
             text: NEW FEATURE
         - _bookshop_name: cloudcannon/simple/headline
           style:
-            heading_level: h1
+            heading_level: h2
             text_color: Primary
           content:
             text: 'Saving Time: Our New Editor Improvements'
@@ -48,3 +48,4 @@ sections:
       content_width: Large
       content_alignment: Center
 ---
+
