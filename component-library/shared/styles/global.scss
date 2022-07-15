@@ -40,6 +40,8 @@ $breakpoint-mobile: 599px;
 html {
     height: 100%;
     overflow: hidden;
+    background: linear-gradient(125.91deg, #64A5FF 35.2%, #C6D9FF 77.65%);
+    
     @media screen and (max-width: $breakpoint-mobile) {
         --font-size-extra-large: 40px;
         --font-size-large: 32px;
