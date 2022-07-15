@@ -44,7 +44,7 @@ sections:
       custom_background_color: false
       background_color: '#f5f5f5'
       content_alignment: Center
-      content_width: Large
+      content_width: Small
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
       path: /uploads/editor-hero.svg
