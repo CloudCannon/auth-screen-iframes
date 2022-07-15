@@ -23,7 +23,7 @@ sections:
                 content:
                   text: >-
                     We’ve reduced editing disruption and build-wait times when
-                    saving and working across our editors.
+                    saving and working across our Editors.
               - _bookshop_name: cloudcannon/simple/button
                 style:
                   type: Primary
