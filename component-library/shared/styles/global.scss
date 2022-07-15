@@ -2,7 +2,7 @@
 // as well as in the component browser and screenshots.
 
 :root {
-    --font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+    --font-family: "TT Norms Pro", system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
     --font-size-extra-large: 60px;
     --font-size-large: 48px;
     --font-size-medium: 36px;
@@ -88,6 +88,6 @@ h3 {
 
 h4 {
     font-size: var(--font-size-small);
-    font-weight: var(--font-weight-large);
+    font-weight: var(--font-weight-body);
     line-height: var(--line-height-body);
 }
