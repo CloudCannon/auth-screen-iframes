@@ -10,12 +10,9 @@ sections:
               - _bookshop_name: cloudcannon/structural/spacer
                 style:
                   height: 60
-              - _bookshop_name: cloudcannon/simple/headline
-                style:
-                  heading_level: h4
-                  text_color: Primary
+              - _bookshop_name: cloudcannon/simple/paragraph
                 content:
-                  text: NEW FEATURE
+                  text: '**NEW FEATURE**'
               - _bookshop_name: cloudcannon/simple/headline
                 style:
                   heading_level: h2
