@@ -31,7 +31,8 @@ sections:
                   disabled: false
                 content:
                   text: Read the Post
-                  url: https://cloudcannon.com/blog/
+                  url: >-
+                    https://cloudcannon.com/blog/saving-time-our-new-editor-improvements/
           style:
             flow: Vertical
             vertical_alignment: Middle
