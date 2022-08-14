@@ -15,7 +15,7 @@ sections:
                   text: '**NEW FEATURE**'
               - _bookshop_name: cloudcannon/simple/headline
                 style:
-                  heading_level: h2
+                  heading_level: h3
                   text_color: Primary
                 content:
                   text: 'Saving Time: Our New Editor Improvements'
