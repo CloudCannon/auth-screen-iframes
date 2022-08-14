@@ -7,9 +7,6 @@ sections:
         - _bookshop_name: cloudcannon/structural/content_blocks
           content:
             blocks:
-              - _bookshop_name: cloudcannon/structural/spacer
-                style:
-                  height: 60
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: '**NEW FEATURE**'
