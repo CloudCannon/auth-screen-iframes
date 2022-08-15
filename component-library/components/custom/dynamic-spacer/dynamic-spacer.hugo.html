@@ -1,5 +1,5 @@
-{{ $gradient := div (sub .style.max .style.min) (sub .style.viewport_upper_limit .style.viewport_lower_limit) }}
-{{ $intercept := mul (mul .style.viewport_lower_limit $gradient) -1 }}
+{{ $gradient := div (sub .style.max .style.min | float) (sub .style.viewport_upper_limit .style.viewport_lower_limit | float) }}
+{{ $intercept := mul .style.viewport_lower_limit $gradient | int }}
 
-{{ $margin_value := (printf "clamp (%dpx, calc((100vh * %.2f) - %dpx), %dpx)" .style.min $gradient $intercept .style.max) }}
-<div class="c-spacing" style="margin-bottom: {{ $margin_value | safeHTML }};"></div>
+{{ $margin_value := printf "clamp(%dpx, calc((100vh * %.2f) - %dpx), %dpx)" .style.min $gradient $intercept .style.max }}
+<div class="c-spacing" style="margin-bottom: {{ $margin_value | safeCSS }};"></div>
