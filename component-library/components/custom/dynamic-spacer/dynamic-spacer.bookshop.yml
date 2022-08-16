@@ -1,0 +1,51 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - sections
+    - content_blocks
+  label: Dynamic Spacer
+  description: Dynamic (clamped) spacer
+  icon: vertical_distribute
+  tags: []
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  style:
+    min: 0
+    max: 60
+    viewport_lower_limit: 600
+    viewport_upper_limit: 800
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  min:
+    type: range
+    comment: "The height of the spacer when Viewport Lower Limit is reached"
+    options:
+      step: 1
+      min: 0
+      max: 200
+  max:
+    type: range
+    comment: "The height of the spacer when Viewport Upper Limit is reached"
+    options:
+      step: 1
+      min: 40
+      max: 200
+  viewport_lower_limit:
+    type: range
+    comment: "The viewport height at which the minimum spacer height will be reached"
+    options:
+      step: 10
+      min: 0
+      max: 1080
+  viewport_upper_limit:
+    type: range
+    comment: "The viewport height at which the maximum spacer height will be reached"
+    options:
+      step: 10
+      min: 100
+      max: 2160

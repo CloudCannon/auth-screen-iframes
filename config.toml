@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Hugo Starter"
+title = "CloudCannon Auth Screen"
 
 [module]
 replacements = "local/component-library -> ../component-library"

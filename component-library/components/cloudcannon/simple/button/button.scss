@@ -24,7 +24,8 @@
     }
 
     &:hover {
-        background-color: #000000;
+        background-color: var(--color-light);
+        color: var(--color-body);
     }
 
     &:active {
