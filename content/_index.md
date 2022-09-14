@@ -49,7 +49,7 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/github-access.png
+      path: /uploads/github-access-control.png
       alt: GitHub Repository Access Control
     style:
       content_width: Large
