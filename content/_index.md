@@ -15,27 +15,28 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
-                  text: '**NEW FEATURE**'
+                  text: '**NEW INTEGRATION**'
               - _bookshop_name: cloudcannon/simple/headline
                 style:
                   heading_level: h3
                   text_color: Primary
                 content:
-                  text: 'Saving Time: Our New Editor Improvements'
+                  text: Enjoy greater control over your GitHub connection.
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    We’ve reduced editing disruption and build-wait times when
-                    saving and working across our Editors.
+                    Manage your GitHub OAuth and repository access separately,
+                    cut back on permissions, and only share the required
+                    repositories.
               - _bookshop_name: cloudcannon/simple/button
                 style:
                   type: Primary
                   size: Responsive
                   disabled: false
                 content:
-                  text: Read the Post
+                  text: Read the migration docs
                   url: >-
-                    https://cloudcannon.com/blog/saving-time-our-new-editor-improvements/
+                    https://cloudcannon.com/documentation/articles/connecting-a-github-repository-as-your-source/#migrating-to-github-app
           style:
             flow: Vertical
             vertical_alignment: Middle
@@ -48,8 +49,8 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/editor-hero.svg
-      alt: Share app
+      path: /uploads/github-access.png
+      alt: GitHub Repository Access Control
     style:
       content_width: Large
       content_alignment: Center
