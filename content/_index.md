@@ -49,7 +49,7 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/hugo-shortcodes-cloudcannon.png
+      path: /uploads/hugo-shortcodes-cloudcannon.svg
       alt: Hugo shortcodes in CloudCannon
     style:
       content_width: Large
