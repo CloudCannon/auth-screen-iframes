@@ -15,28 +15,28 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
-                  text: '**NEW INTEGRATION**'
+                  text: '**NEW FEATURE**'
               - _bookshop_name: cloudcannon/simple/headline
                 style:
                   heading_level: h3
                   text_color: Primary
                 content:
-                  text: Enjoy greater control over your GitHub connection.
+                  text: Edit your Hugo content with Shortcodes
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    Manage your GitHub OAuth and repository access separately,
-                    cut back on permissions, and only share the required
-                    repositories.
+                    CloudCannon is the first CMS with full support and full
+                    integration for built-in and custom Hugo shortcodes — across
+                    our Visual, Content, and Source Editors.
               - _bookshop_name: cloudcannon/simple/button
                 style:
                   type: Primary
                   size: Responsive
                   disabled: false
                 content:
-                  text: Read the migration docs
+                  text: Read the article
                   url: >-
-                    https://cloudcannon.com/documentation/articles/connecting-a-github-repository-as-your-source/#migrating-to-github-app
+                    https://cloudcannon.com/blog/editing-content-with-hugo-shortcodes/
           style:
             flow: Vertical
             vertical_alignment: Middle
@@ -49,8 +49,8 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/github-access-control.png
-      alt: GitHub Repository Access Control
+      path: /uploads/hugo-shortcodes-cloudcannon.png
+      alt: Hugo shortcodes in CloudCannon
     style:
       content_width: Large
       content_alignment: Center
