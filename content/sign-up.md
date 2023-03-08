@@ -1,5 +1,6 @@
 ---
 title: Home
+background: "#ffffff"
 sections:
   - _bookshop_name: cloudcannon/sections/one-column
     content:
