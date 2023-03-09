@@ -1,0 +1,40 @@
+---
+title: Home
+background: "#fff"
+sections:
+---
+<style>
+  .cool-letter {
+    position: relative;
+  }
+  .cool-letter::after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: -18px;
+    left: -30px;
+    background-image: url('/uploads/three-fun-lines.svg');
+    width: 39px;
+    height: 38px;
+  }
+</style>
+
+<div style="height: 100vh;">
+  <section class="c-one-column --center">
+    <div class="__content-wrapper --medium" style="position: relative">
+        <div style="margin-bottom: 77px; flex: 1 1;"></div>
+          <h1 class="c-headline --primary" style="color: var(--color-carbon);">
+            <span class="cool-letter">C</span>raft an intuitive editing experience
+          </h1>
+    </div>
+  </section>
+  
+  <div style="background-color: #fdf6db; height: 100%; margin-top: 40px; border-top-right-radius: 50px;">
+    <section class="c-one-column --center">
+      <div class="__content-wrapper --medium" style="position: relative">
+        <div style="margin-bottom: 77px; flex: 1 1;"></div>
+        <img loading="lazy" src="/uploads/your-team-in-sync.png" />
+      </div>
+    </section>
+  </div>
+</div>
