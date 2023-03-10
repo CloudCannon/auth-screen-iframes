@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" {{ with .Params.background }}style="background: {{ . }}"{{ end}} >
 
 <head>
     <meta charset="UTF-8">
@@ -23,7 +23,9 @@
         {{ partial "bookshop_bindings" `.Params.sections` }}
         {{ partial "bookshop_partial" (slice "page" .Params.sections) }}
         <!-- Render any additional page content below the page's content blocks -->
-        {{ block "main" . }}{{ end }}
+        {{ block "main" . }}
+            {{ .Content }}
+        {{ end }}
     </main>
 </body>
 
