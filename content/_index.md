@@ -15,28 +15,28 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
-                  text: '**NEW FEATURE**'
+                  text: '**FEATURE**'
               - _bookshop_name: cloudcannon/simple/headline
                 style:
                   heading_level: h3
                   text_color: Primary
                 content:
-                  text: Edit your Hugo content with Shortcodes
+                  text: Let anyone, anywhere, edit your CloudCannon sites
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    CloudCannon is the first CMS with full support and full
-                    integration for built-in and custom Hugo shortcodes — across
-                    our Visual, Content, and Source Editors.
+                    It’s easy to share your static site with anyone, and allow
+                    them to edit it — without new users having to create a
+                    CloudCannon account.
               - _bookshop_name: cloudcannon/simple/button
                 style:
                   type: Primary
                   size: Responsive
                   disabled: false
                 content:
-                  text: Read the article
+                  text: Learn more
                   url: >-
-                    https://cloudcannon.com/blog/editing-content-with-hugo-shortcodes/
+                    https://cloudcannon.com/blog/let-anyone-anywhere-edit-your-cloudcannon-sites/
           style:
             flow: Vertical
             vertical_alignment: Middle
@@ -49,8 +49,8 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/hugo-shortcodes-cloudcannon.svg
-      alt: Hugo shortcodes in CloudCannon
+      path: /uploads/client-sharing.svg
+      alt: Client Sharing in CloudCannon
     style:
       content_width: Large
       content_alignment: Center
