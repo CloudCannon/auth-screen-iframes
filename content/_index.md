@@ -35,8 +35,7 @@ sections:
                   disabled: false
                 content:
                   text: Learn more
-                  url: >-
-                    https://cloudcannon.com/blog/let-anyone-anywhere-edit-your-cloudcannon-sites/
+                  url: https://hubs.la/Q01Q6_H50
           style:
             flow: Vertical
             vertical_alignment: Middle
@@ -52,6 +51,6 @@ sections:
       path: /uploads/client-sharing-5.svg
       alt: Client Sharing in CloudCannon
     style:
-      content_width: Large
+      content_width: Medium
       content_alignment: Center
 ---
