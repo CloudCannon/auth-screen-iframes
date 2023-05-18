@@ -35,7 +35,8 @@ sections:
                   disabled: false
                 content:
                   text: Learn more
-                  url: https://hubs.la/Q01Q6_H50
+                  url: >-
+                    https://cloudcannon.com/blog/let-anyone-anywhere-edit-your-cloudcannon-sites/?utm_campaign=Client%20Sharing%20PM&utm_source=internal&utm_medium=auth-screen
           style:
             flow: Vertical
             vertical_alignment: Middle
