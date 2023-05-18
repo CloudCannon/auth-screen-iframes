@@ -15,7 +15,7 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
-                  text: '**FEATURE**'
+                  text: '**FEATURE: CLIENT SHARING**'
               - _bookshop_name: cloudcannon/simple/headline
                 style:
                   heading_level: h3
