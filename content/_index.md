@@ -48,7 +48,7 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/client-sharing-image.svg
+      path: /uploads/client-sharing-image2.svg
       alt: Client Sharing in CloudCannon
     style:
       content_width: Medium
