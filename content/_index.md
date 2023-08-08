@@ -15,7 +15,7 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
-                  text: '**FEATURES**'
+                  text: ''
               - _bookshop_name: cloudcannon/simple/headline
                 style:
                   heading_level: h3
@@ -34,7 +34,7 @@ sections:
                   size: Responsive
                   disabled: false
                 content:
-                  text: Learn more
+                  text: Read the article
                   url: >-
                     https://cloudcannon.com/blog/a-new-way-to-configure-your-cloudcannon-sites/
           style:
