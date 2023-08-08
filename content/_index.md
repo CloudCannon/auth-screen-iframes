@@ -30,7 +30,7 @@ sections:
                     the config and input options that are available.
               - _bookshop_name: cloudcannon/simple/button
                 style:
-                  type: Primary
+                  type: Secondary
                   size: Responsive
                   disabled: false
                 content:
