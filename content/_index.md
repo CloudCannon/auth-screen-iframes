@@ -52,6 +52,6 @@ sections:
       path: /uploads/config-screen-image.png
       alt: Client Sharing in CloudCannon
     style:
-      content_width: Medium
+      content_width: Small
       content_alignment: Center
 ---
