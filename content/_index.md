@@ -15,28 +15,28 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
-                  text: '**CLIENT SHARING**'
+                  text: '**FEATURES**'
               - _bookshop_name: cloudcannon/simple/headline
                 style:
                   heading_level: h3
-                  text_color: Primary
+                  text_color: Secondary
                 content:
-                  text: Let anyone, anywhere, edit your CloudCannon sites
+                  text: A new way to configure your CloudCannon sites
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    It’s easy to share your static site with anyone, and allow
-                    them to edit it — without new users having to create a
-                    CloudCannon account.
+                    With our new visual interface for your site’s configuration,
+                    you can see everything at a glance — and learn more about
+                    the config and input options that are available.
               - _bookshop_name: cloudcannon/simple/button
                 style:
-                  type: Primary
+                  type: Secondary
                   size: Responsive
                   disabled: false
                 content:
                   text: Learn more
                   url: >-
-                    https://cloudcannon.com/blog/let-anyone-anywhere-edit-your-cloudcannon-sites/?utm_campaign=Client%20Sharing%20PM&utm_source=internal&utm_medium=auth-screen
+                    https://cloudcannon.com/blog/a-new-way-to-configure-your-cloudcannon-sites/
           style:
             flow: Vertical
             vertical_alignment: Middle
