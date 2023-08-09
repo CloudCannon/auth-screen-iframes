@@ -27,7 +27,7 @@ sections:
                   text: >-
                     With our new visual interface for your site’s configuration,
                     you can see everything at a glance — and learn more about
-                    the config and input options that are available.
+                    the configuration and input options that are available.
               - _bookshop_name: cloudcannon/simple/button
                 style:
                   type: Secondary
