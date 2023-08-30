@@ -1,6 +1,14 @@
 ---
 title: Home
 sections:
+  - _bookshop_name: cloudcannon/sections/logo-ticker
+    content:
+      logos:
+        - image: /uploads/hugo-conf-logo.svg
+          alt:
+          link:
+    style:
+      height: 45
   - _bookshop_name: cloudcannon/sections/one-column
     content:
       blocks:
