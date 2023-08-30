@@ -5,7 +5,7 @@ sections:
     content:
       logos:
         - image: /uploads/hugo-conf-logo.svg
-          alt:
+          alt: hugoconf logo
           link: https://hugoconf.io/?utm_campaign=HugoConf&utm_source=authscreen
     style:
       height: 100
