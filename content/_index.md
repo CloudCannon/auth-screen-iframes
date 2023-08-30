@@ -50,7 +50,7 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/hugoconf-background.svg
+      path: /uploads/hugo-conf-image.svg
       alt: Client Sharing in CloudCannon
     style:
       content_width: Large
