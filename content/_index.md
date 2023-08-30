@@ -8,7 +8,7 @@ sections:
           alt:
           link:
     style:
-      height: 45
+      height: 100
   - _bookshop_name: cloudcannon/sections/one-column
     content:
       blocks:
@@ -18,7 +18,7 @@ sections:
               - _bookshop_name: custom/dynamic-spacer
                 style:
                   min: 0
-                  max: 60
+                  max: 50
                   viewport_lower_limit: 600
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/paragraph
