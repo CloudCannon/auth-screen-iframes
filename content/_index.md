@@ -23,7 +23,7 @@ sections:
                   heading_level: h3
                   text_color: Primary
                 content:
-                  text: Join us for HugoConf 2023!
+                  text: Join us at HugoConf 2023!
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
