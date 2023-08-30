@@ -19,24 +19,23 @@ sections:
               - _bookshop_name: cloudcannon/simple/headline
                 style:
                   heading_level: h3
-                  text_color: Secondary
+                  text_color: Primary
                 content:
-                  text: A new way to configure your CloudCannon sites
+                  text: Join us for HugoConf 2023!
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    With our new visual interface for your site’s configuration,
-                    you can see everything at a glance — and learn more about
-                    the configuration and input options that are available.
+                    The free, online conference for everything Hugo. We’re
+                    kicking off on the Thursday September 21 (PDT)
               - _bookshop_name: cloudcannon/simple/button
                 style:
-                  type: Secondary
+                  type: Primary
                   size: Responsive
                   disabled: false
                 content:
-                  text: Read the article
+                  text: Find out more
                   url: >-
-                    https://cloudcannon.com/blog/a-new-way-to-configure-your-cloudcannon-sites/?utm_campaign=Config%20GUI%20PM&utm_source=authscreen
+                    https://hugoconf.io/?utm_campaign=HugoConf&utm_source=authscreen
           style:
             flow: Vertical
             vertical_alignment: Middle
