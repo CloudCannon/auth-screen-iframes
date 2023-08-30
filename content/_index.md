@@ -18,9 +18,9 @@ sections:
               - _bookshop_name: custom/dynamic-spacer
                 style:
                   min: 0
-                  max: 50
-                  viewport_lower_limit: 600
-                  viewport_upper_limit: 800
+                  max: 40
+                  viewport_lower_limit: 0
+                  viewport_upper_limit: 100
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: ''
