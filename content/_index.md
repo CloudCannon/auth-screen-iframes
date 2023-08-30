@@ -6,7 +6,7 @@ sections:
       logos:
         - image: /uploads/hugo-conf-logo.svg
           alt:
-          link:
+          link: https://hugoconf.io/?utm_campaign=HugoConf&utm_source=authscreen
     style:
       height: 100
   - _bookshop_name: cloudcannon/sections/one-column
