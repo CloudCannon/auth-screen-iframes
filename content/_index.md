@@ -27,8 +27,8 @@ sections:
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    The free, online conference for everything Hugo. We’re
-                    kicking off on the Thursday September 21 (PDT)
+                    The free, online conference for everything Hugo! We're
+                    kicking off on Thursday September 21 (PDT).
               - _bookshop_name: cloudcannon/simple/button
                 style:
                   type: Primary
