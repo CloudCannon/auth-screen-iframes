@@ -37,7 +37,7 @@ sections:
                 content:
                   text: Find out more
                   url: >-
-                    https://hugoconf.io/?utm_campaign=HugoConf&utm_source=authscreen
+                    https://cloudcannon.com/blog/a-new-way-to-configure-your-cloudcannon-sites/?utm_campaign=Config%20GUI%20PM&utm_source=authscreen
           style:
             flow: Vertical
             vertical_alignment: Middle
