@@ -36,7 +36,7 @@ sections:
                 content:
                   text: Read the article
                   url: >-
-                    https://cloudcannon.com/blog/a-new-way-to-configure-your-cloudcannon-sites/
+                    https://cloudcannon.com/blog/a-new-way-to-configure-your-cloudcannon-sites/?utm_campaign=Config%20GUI%20PM&utm_source=authscreen
           style:
             flow: Vertical
             vertical_alignment: Middle
