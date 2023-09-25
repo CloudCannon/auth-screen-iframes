@@ -30,7 +30,7 @@
 
     --color-carbon: #393939;
 
-    --color-body: #ffffff;
+    --color-body: #393939;
     --color-light: #034ad8;
 
     --radius: 12px;
@@ -42,7 +42,7 @@ $breakpoint-mobile: 599px;
 html {
     height: 100%;
     overflow: hidden;
-    background: #000000;
+    background: linear-gradient(167.41deg, #C2E5E3 23.35%, #D7EEED 67.81%, #E5F4F3 79.08%);
 }
 
 html,
