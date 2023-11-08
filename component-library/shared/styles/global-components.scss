@@ -11,4 +11,8 @@
 .--large,
 .--full {
     max-width: 100%;
+
+    @media screen and (max-width: 580px) {
+        padding: 0 8px;
+    }
 }
