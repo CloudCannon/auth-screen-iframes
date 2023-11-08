@@ -49,7 +49,7 @@ sections:
       content_width: Small
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/site-mounting-log-in-hero.png
+      path: /uploads/hero-image.svg
       alt: Site Mounting in CloudCannon diagram
     style:
       content_width: Large
