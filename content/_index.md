@@ -17,11 +17,11 @@ sections:
                 content:
                   text: ''
               - _bookshop_name: cloudcannon/simple/headline
+                content:
+                  text: A new way to configure your CloudCannon sites
                 style:
                   heading_level: h3
                   text_color: Secondary
-                content:
-                  text: A new way to configure your CloudCannon sites
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
@@ -29,14 +29,14 @@ sections:
                     you can see everything at a glance — and learn more about
                     the config and input options that are available.
               - _bookshop_name: cloudcannon/simple/button
-                style:
-                  type: Secondary
-                  size: Responsive
-                  disabled: false
                 content:
                   text: Read the article
                   url: >-
                     https://cloudcannon.com/blog/a-new-way-to-configure-your-cloudcannon-sites/?utm_campaign=Config%20GUI%20PM&utm_source=authscreen
+                style:
+                  type: Secondary
+                  size: Responsive
+                  disabled: false
           style:
             flow: Vertical
             vertical_alignment: Middle
@@ -49,9 +49,9 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/config-screen-image.png
-      alt: Client Sharing in CloudCannon
+      path: /uploads/site-mounting-log-in-hero.png
+      alt: Site Mounting in CloudCannon diagram
     style:
-      content_width: Small
+      content_width: Medium
       content_alignment: Center
 ---
