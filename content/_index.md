@@ -46,7 +46,10 @@ sections:
       custom_background_color: false
       background_color: '#f5f5f5'
       content_alignment: Center
-      content_width: Small
+      content_width: Medium
+  - _bookshop_name: cloudcannon/structural/spacer
+    style:
+      height: 120
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
       path: /uploads/hero-image-1.svg
