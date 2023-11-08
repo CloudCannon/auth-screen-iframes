@@ -20,7 +20,7 @@ sections:
                 content:
                   text: Share components and syndicate content with Site Mounting
                 style:
-                  heading_level: h3
+                  heading_level: h2
                   text_color: Secondary
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
@@ -34,7 +34,7 @@ sections:
                   url: >-
                     https://cloudcannon.com/blog/share-components-and-syndicate-content-with-site-mounting/?utm_campaign=Site%20Mounting%20Launch&utm_source=auth-screen
                 style:
-                  type: Secondary
+                  type: Primary
                   size: Responsive
                   disabled: false
           style:
@@ -46,7 +46,7 @@ sections:
       custom_background_color: false
       background_color: '#f5f5f5'
       content_alignment: Center
-      content_width: Medium
+      content_width: Small
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
       path: /uploads/site-mounting-log-in-hero.png
