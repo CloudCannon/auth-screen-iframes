@@ -52,7 +52,7 @@ sections:
       height: 120
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/hero-image-1.svg
+      path: /uploads/hero-image-2.svg
       alt: Site Mounting in CloudCannon diagram
     style:
       content_width: Large
