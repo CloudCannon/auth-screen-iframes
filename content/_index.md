@@ -25,13 +25,12 @@ sections:
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    Thanks to the features in our new Open Beta, editing in
-                    CloudCannon is now a collaborative experience, enabling
-                    multiple users to create content together.
+                    Editing in CloudCannon is now a collaborative experience,
+                    enabling multiple users to create content together.
 
 
-                    Everyone is welcome to test our new editing upgrades
-                    —&nbsp;opt in and find out more!
+                    Everyone is welcome to test our new editing upgrades — opt
+                    in and find out more!
               - _bookshop_name: cloudcannon/simple/button
                 content:
                   text: Read the article
@@ -56,7 +55,7 @@ sections:
       height: 120
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/collaborative-editing.svg
+      path: /uploads/collaborative-editing-r.svg
       alt: Collaborative editing in CloudCannon diagram
     style:
       content_width: Large
