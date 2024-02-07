@@ -35,7 +35,7 @@ sections:
                 content:
                   text: Read the article
                   url: >-
-                    https://cloudcannon.com/blog/open-beta-new-ways-to-collaborate-on-editing-your-websites/
+                    https://cloudcannon.com/blog/open-beta-new-ways-to-collaborate-on-editing-your-websites/?utm_campaign=Open%20Editing%20Beta&utm_source=auth-screen
                 style:
                   type: Primary
                   size: Responsive
