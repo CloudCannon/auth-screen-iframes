@@ -18,21 +18,25 @@ sections:
                   text: ''
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: Share components and syndicate content with Site Mounting
+                  text: 'Open Beta: Collaborate with your team'
                 style:
                   heading_level: h2
                   text_color: Secondary
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    With Site Mounting, you can easily reuse your centrally
-                    managed site components and shared layouts across multiple
-                    CloudCannon sites.
+                    Thanks to the features in our new Open Beta, editing in
+                    CloudCannon is now a collaborative experience, enabling
+                    multiple users to create content together.
+
+
+                    Everyone is welcome to test our new editing upgrades
+                    —&nbsp;opt in and find out more!
               - _bookshop_name: cloudcannon/simple/button
                 content:
                   text: Read the article
                   url: >-
-                    https://cloudcannon.com/blog/share-components-and-syndicate-content-with-site-mounting/?utm_campaign=Site%20Mounting%20Launch&utm_source=auth-screen
+                    https://cloudcannon.com/blog/open-beta-new-ways-to-collaborate-on-editing-your-websites/
                 style:
                   type: Primary
                   size: Responsive
@@ -52,8 +56,8 @@ sections:
       height: 120
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/hero-image-1.svg
-      alt: Site Mounting in CloudCannon diagram
+      path: /uploads/collaborative-editing.svg
+      alt: Collaborative editing in CloudCannon diagram
     style:
       content_width: Large
       content_alignment: Center
