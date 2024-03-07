@@ -31,7 +31,7 @@ sections:
                 content:
                   text: Read the article
                   url: >-
-                    https://cloudcannon.com/blog/cloudcannons-new-editing-improvements-are-here/
+                    https://cloudcannon.com/blog/cloudcannons-new-editing-improvements-are-here/?utm_campaign=Editing%20upgrades&utm_source=auth-screen
                 style:
                   type: Primary
                   size: Responsive
