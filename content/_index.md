@@ -13,14 +13,11 @@ sections:
                   max: 60
                   viewport_lower_limit: 600
                   viewport_upper_limit: 800
-              - _bookshop_name: cloudcannon/simple/paragraph
-                content:
-                  text: ''
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: Collaborate with your team
+                  text: Enhanced flexibility for teams with Custom Permissions
                 style:
-                  heading_level: h2
+                  heading_level: h1
                   text_color: Secondary
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
@@ -51,8 +48,8 @@ sections:
       height: 120
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/collaborative-editing-r.svg
-      alt: Collaborative editing in CloudCannon diagram
+      path: /uploads/custom-permissions-login-screen.svg
+      alt: Read and write access groups for CloudCannon's Custom Permissions
     style:
       content_width: Large
       content_alignment: Center
