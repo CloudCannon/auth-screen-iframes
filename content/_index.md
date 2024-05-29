@@ -22,13 +22,14 @@ sections:
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    Editing in CloudCannon is now a collaborative experience,
-                    enabling multiple users to create content together.
+                    Custom Permissions allow you to define granular access
+                    levels that are tailored to the unique needs of your team
+                    and projects.
               - _bookshop_name: cloudcannon/simple/button
                 content:
-                  text: Read the article
+                  text: Learn more
                   url: >-
-                    https://cloudcannon.com/blog/cloudcannons-new-editing-improvements-are-here/?utm_campaign=Editing%20upgrades&utm_source=auth-screen
+                    https://cloudcannon.com/blog/enhanced-flexibility-for-teams-with-custom-permissions/
                 style:
                   type: Primary
                   size: Responsive
