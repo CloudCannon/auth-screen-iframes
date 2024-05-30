@@ -22,9 +22,9 @@ sections:
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    Custom Permissions allow you to define granular access
-                    levels that are tailored to the unique needs of your team
-                    and projects.
+                    New for Team and Enterprise plans — Custom Permissions allow
+                    you to define granular access levels that are tailored to
+                    the unique needs of your team.
               - _bookshop_name: cloudcannon/simple/button
                 content:
                   text: Learn more
