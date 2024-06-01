@@ -29,7 +29,7 @@ sections:
                 content:
                   text: Learn more
                   url: >-
-                    https://cloudcannon.com/blog/enhanced-flexibility-for-teams-with-custom-permissions/
+                    https://cloudcannon.com/blog/enhanced-flexibility-for-teams-with-custom-permissions/?utm_campaign=Custom%20Permissions&utm_source=auth-screen
                 style:
                   type: Primary
                   size: Responsive
