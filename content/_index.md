@@ -15,21 +15,23 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: Enhanced flexibility for teams with Custom Permissions
+                  text: New Headless Mode, and live data and config editing
                 style:
                   heading_level: h1
                   text_color: Secondary
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    New for Team and Enterprise plans — Custom Permissions allow
-                    you to define granular access levels that are tailored to
-                    the unique needs of your team.
+                    Available now for all users: an optional Headless Mode, live
+                    data and configuration editing, improved default
+                    configuration, streamlined builds, improved card displays,
+                    and richer preview options for select and multiselect
+                    inputs.
               - _bookshop_name: cloudcannon/simple/button
                 content:
                   text: Learn more
                   url: >-
-                    https://cloudcannon.com/blog/enhanced-flexibility-for-teams-with-custom-permissions/?utm_campaign=Custom%20Permissions&utm_source=auth-screen
+                    https://cloudcannon.com/blog/streamlined-headless-mode-unified-configuration-and-live-data-editing/?utm_source=auth-screen
                 style:
                   type: Primary
                   size: Responsive
@@ -49,9 +51,9 @@ sections:
       height: 120
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/custom-permissions-login-screen.svg
+      path: /uploads/login-unified-launch.png
       alt: Read and write access groups for CloudCannon's Custom Permissions
     style:
-      content_width: Large
+      content_width: Small
       content_alignment: Center
 ---
