@@ -54,6 +54,6 @@ sections:
       path: /uploads/login-unified-launch.png
       alt: Read and write access groups for CloudCannon's Custom Permissions
     style:
-      content_width: Small
+      content_width: Medium
       content_alignment: Center
 ---
