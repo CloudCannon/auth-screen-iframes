@@ -31,7 +31,7 @@ sections:
                 content:
                   text: Learn more
                   url: >-
-                    https://cloudcannon.com/blog/streamlined-headless-mode-unified-configuration-and-live-data-editing/?utm_source=auth-screen
+                    https://cloudcannon.com/blog/streamlined-headless-mode-unified-configuration-and-live-data-editing/?utm_campaign=Unified%Config&utm_source=auth-screen
                 style:
                   type: Primary
                   size: Responsive
