@@ -22,10 +22,10 @@ sections:
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    Available now for all users: Headless Mode, live data and
-                    configuration editing, streamlined builds, improved card
-                    displays, and richer preview options for select and
-                    multiselect inputs.
+                    Available now for all users! Edit your site config and data
+                    without rebuilding — and choose to add dynamic site
+                    components, simplify your builds, or create richer card
+                    previews.
               - _bookshop_name: cloudcannon/simple/button
                 content:
                   text: Learn more
