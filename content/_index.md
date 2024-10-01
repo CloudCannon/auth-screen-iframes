@@ -22,11 +22,10 @@ sections:
               - _bookshop_name: cloudcannon/simple/paragraph
                 content:
                   text: >-
-                    Available now for all users: an optional Headless Mode, live
-                    data and configuration editing, improved default
-                    configuration, streamlined builds, improved card displays,
-                    and richer preview options for select and multiselect
-                    inputs.
+                    Available now for all users: Headless Mode, live data and
+                    configuration editing, streamlined builds, improved card
+                    displays, and richer preview options for select and
+                    multiselect inputs.
               - _bookshop_name: cloudcannon/simple/button
                 content:
                   text: Learn more
@@ -48,12 +47,12 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/structural/spacer
     style:
-      height: 120
+      height: 40
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
       path: /uploads/login-unified-launch.png
       alt: Read and write access groups for CloudCannon's Custom Permissions
     style:
-      content_width: Medium
+      content_width: Large
       content_alignment: Center
 ---
