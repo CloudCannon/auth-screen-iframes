@@ -50,9 +50,9 @@ sections:
       height: 40
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/login-unified-launch.png
+      path: /uploads/auth-screen-hype-community-1.png
       alt: Read and write access groups for CloudCannon's Custom Permissions
     style:
-      content_width: Large
+      content_width: Small
       content_alignment: Center
 ---
