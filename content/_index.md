@@ -53,6 +53,6 @@ sections:
       path: /uploads/auth-screen-hype-community-1.png
       alt: Read and write access groups for CloudCannon's Custom Permissions
     style:
-      content_width: Small
+      content_width: Medium
       content_alignment: Center
 ---
