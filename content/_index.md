@@ -31,7 +31,7 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/auth-screen-hype-community-2.png
+      path: /uploads/auth-screen-hype-community-3.png
       alt: Read and write access groups for CloudCannon's Custom Permissions
     style:
       content_width: Medium
