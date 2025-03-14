@@ -45,7 +45,7 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/auth-screen-hype-community-final.png
+      path: /uploads/community-launch-login.png
       alt: Wireframe image with CC staff photos
     style:
       content_width: Medium
