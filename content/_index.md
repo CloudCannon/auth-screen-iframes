@@ -15,10 +15,24 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: CloudCannon Community, coming soon!
+                  text: 'The CloudCannon Community is here! '
                 style:
                   heading_level: h1
                   text_color: Secondary
+              - _bookshop_name: cloudcannon/simple/headline
+                content:
+                  text: Join us to connect, learn, and share.
+                style:
+                  heading_level: h3
+                  text_color: Primary
+              - _bookshop_name: cloudcannon/simple/button
+                content:
+                  text: Join the Community
+                  url: https://hubs.la/Q03bFt1l0
+                style:
+                  type: Primary
+                  size: Responsive
+                  disabled: false
           style:
             flow: Vertical
             vertical_alignment: Middle
@@ -31,8 +45,8 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/auth-screen-hype-community-final.png
-      alt: Read and write access groups for CloudCannon's Custom Permissions
+      path: /uploads/community-launch-login.png
+      alt: Wireframe image with CC staff photos
     style:
       content_width: Medium
       content_alignment: Center
