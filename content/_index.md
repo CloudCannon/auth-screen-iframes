@@ -15,19 +15,19 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: 'The CloudCannon Community is here! '
+                  text: Join the CloudCannon Community!
                 style:
                   heading_level: h1
                   text_color: Secondary
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: Join us to connect, learn, and share.
+                  text: Share, learn, and connect with other CloudCannon users.
                 style:
                   heading_level: h3
                   text_color: Primary
               - _bookshop_name: cloudcannon/simple/button
                 content:
-                  text: Join the Community
+                  text: Browse the Community
                   url: https://hubs.la/Q03bFt1l0
                 style:
                   type: Primary
