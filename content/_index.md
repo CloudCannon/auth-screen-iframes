@@ -15,20 +15,22 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: Join the CloudCannon Community!
+                  text: Big upgrades have come to CloudCannon!
                 style:
                   heading_level: h1
                   text_color: Secondary
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: Share, learn, and connect with other CloudCannon users.
+                  text: >-
+                    Enhanced editable regions, configuration mode, a refreshed
+                    UI, and performance improvements..
                 style:
                   heading_level: h3
                   text_color: Primary
               - _bookshop_name: cloudcannon/simple/button
                 content:
-                  text: Browse the Community
-                  url: https://hubs.la/Q03bFt1l0
+                  text: Read more in the Community
+                  url: https://hubs.la/Q03Pqzpn0
                 style:
                   type: Primary
                   size: Responsive
