@@ -15,7 +15,7 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: Big upgrades are coming to CloudCannon!
+                  text: Upgrades are coming to CloudCannon
                 style:
                   heading_level: h1
                   text_color: Secondary
@@ -23,7 +23,7 @@ sections:
                 content:
                   text: >-
                     Enhanced editable regions, configuration mode, a refreshed
-                    UI, and performance improvements are on the way..
+                    UI, and performance improvements are on the way...
                 style:
                   heading_level: h3
                   text_color: Primary
