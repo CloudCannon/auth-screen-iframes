@@ -15,22 +15,22 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: Upgrades are coming to CloudCannon
+                  text: CloudCannon's received a big upgrade
                 style:
                   heading_level: h1
                   text_color: Secondary
               - _bookshop_name: cloudcannon/simple/headline
                 content:
                   text: >-
-                    Enhanced editable regions, configuration mode, a refreshed
-                    UI, and performance improvements are on the way...
+                    Enhanced Editable Regions, Configuration Mode, a refreshed
+                    UI, and performance improvements are here!
                 style:
                   heading_level: h3
                   text_color: Primary
               - _bookshop_name: cloudcannon/simple/button
                 content:
                   text: Read more in the Community
-                  url: https://hubs.la/Q03Pqzpn0
+                  url: https://hubs.la/Q03RYF7X0
                 style:
                   type: Primary
                   size: Responsive
