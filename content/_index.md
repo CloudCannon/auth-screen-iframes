@@ -30,7 +30,7 @@ sections:
               - _bookshop_name: cloudcannon/simple/button
                 content:
                   text: Read more in the Community
-                  url: https://hubs.la/Q03Pqzpn0
+                  url: https://hubs.la/Q03RYF7X0
                 style:
                   type: Primary
                   size: Responsive
