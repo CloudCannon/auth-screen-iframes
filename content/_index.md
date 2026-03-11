@@ -51,6 +51,6 @@ sections:
       path: /uploads/cc-astro-logo-1.svg
       alt: Astro X CloudCannon logos
     style:
-      content_width: Small
+      content_width: Medium
       content_alignment: Center
 ---
