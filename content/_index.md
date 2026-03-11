@@ -48,9 +48,9 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/cloudcannon-astro-partnership-s.png
-      alt: Astro X CloudCannon screenshots
+      path: /uploads/cc-astro-logo-1.svg
+      alt: Astro X CloudCannon logos
     style:
-      content_width: Medium
+      content_width: Small
       content_alignment: Center
 ---
