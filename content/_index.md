@@ -49,7 +49,7 @@ sections:
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
       path: /uploads/cloudcannon-astro-partnership-s.png
-      alt: Wireframe image with CC staff photos
+      alt: Astro X CloudCannon screenshots
     style:
       content_width: Medium
       content_alignment: Center
