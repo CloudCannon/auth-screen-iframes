@@ -22,8 +22,8 @@ sections:
               - _bookshop_name: cloudcannon/simple/headline
                 content:
                   text: >-
-                    Try our new CLI with local dev server, documented REST API
-                    and SDK, and public Visual Editor API — all available now!
+                    Try our new CLI with local dev server, REST API and SDK, and
+                    public Visual Editor API — all available now!
                 style:
                   heading_level: h3
                   text_color: Primary
