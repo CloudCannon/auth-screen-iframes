@@ -15,23 +15,22 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: We're partnering with Astro 🚀
+                  text: Preview, automate, and extend
                 style:
                   heading_level: h1
                   text_color: Secondary
               - _bookshop_name: cloudcannon/simple/headline
                 content:
                   text: >-
-                    Get a headstart with our new Astro Component Starter,
-                    Jetstream template, and join the Astro + Cloudcannon
-                    challenge!
+                    Try our new CLI with local dev server, documented REST API
+                    and SDK, and public Visual Editor API — all available now!
                 style:
                   heading_level: h3
                   text_color: Primary
               - _bookshop_name: cloudcannon/simple/button
                 content:
                   text: Find out more
-                  url: https://hubs.la/Q046jn960
+                  url: https://hubs.la/Q04sTr1F0
                 style:
                   type: Primary
                   size: Responsive
@@ -48,8 +47,8 @@ sections:
       content_width: Medium
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/cc-astro-logo-1.svg
-      alt: Astro X CloudCannon logos
+      path: /uploads/login-dev-platform-upgrade.png
+      alt: CloudCannon developer platform upgrade
     style:
       content_width: Medium
       content_alignment: Center
