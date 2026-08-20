@@ -22,9 +22,8 @@ sections:
               - _bookshop_name: cloudcannon/simple/headline
                 content:
                   text: >-
-                    Get a headstart with our new Astro Component Starter,
-                    Jetstream template, and join the Astro + Cloudcannon
-                    challenge!
+                    Get a headstart with our new Astro Component Starter and
+                    Jetstream template!
                 style:
                   heading_level: h3
                   text_color: Primary
