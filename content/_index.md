@@ -15,22 +15,22 @@ sections:
                   viewport_upper_limit: 800
               - _bookshop_name: cloudcannon/simple/headline
                 content:
-                  text: New Headless Mode, and live data and config editing
+                  text: Preview, automate, and extend
                 style:
                   heading_level: h1
                   text_color: Secondary
-              - _bookshop_name: cloudcannon/simple/paragraph
+              - _bookshop_name: cloudcannon/simple/headline
                 content:
                   text: >-
-                    Available now for all users! Edit your site config and data
-                    without rebuilding — and choose to add dynamic site
-                    components, simplify your builds, or create richer card
-                    previews.
+                    Try our new CLI with local dev server, REST API and SDK, and
+                    public Visual Editor API — all available now!
+                style:
+                  heading_level: h3
+                  text_color: Primary
               - _bookshop_name: cloudcannon/simple/button
                 content:
-                  text: Learn more
-                  url: >-
-                    https://cloudcannon.com/blog/streamlined-headless-mode-unified-configuration-and-live-data-editing/?utm_campaign=Unified%Config&utm_source=auth-screen
+                  text: Find out more
+                  url: https://hubs.la/Q04sTr1F0
                 style:
                   type: Primary
                   size: Responsive
@@ -45,14 +45,11 @@ sections:
       background_color: '#f5f5f5'
       content_alignment: Center
       content_width: Medium
-  - _bookshop_name: cloudcannon/structural/spacer
-    style:
-      height: 40
   - _bookshop_name: cloudcannon/sections/hero-image
     content:
-      path: /uploads/login-unified-launch.png
-      alt: Read and write access groups for CloudCannon's Custom Permissions
+      path: /uploads/login-dev-platform-upgrade.png
+      alt: CloudCannon developer platform upgrade
     style:
-      content_width: Large
+      content_width: Medium
       content_alignment: Center
 ---
